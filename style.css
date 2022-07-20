@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,500&family=Source+Serif+Pro&display=swap');
+
+
+
+.hello{
+    background-color: #161616;
+    border-radius: 50px;
+    
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+    
+}
+.pool{
+    color: #FFFFFF;
+    font-size: 70px;
+    margin: 0%;
+}
+.pool-2{
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.cool{    
+    text-decoration: none;
+    color: white;
+    background-color: #DD0000;
+    border-radius: 5px;
+    padding: 16px 25px;
+    
+}
+
+.one{
+    /* border: 1px solid tomato; */
+    width: 531px;
+    height: 424px;
+    margin-top: 111px;
+    margin-bottom: 111px;
+    margin-left: 107px;
+}
+.two img{
+    width: 581px;
+    height: 613px;
+    margin-top: 33px;
+}
+
+.container-two{
+    background-color: black;
+    border-radius: 5px;
+    width: 312px;
+    height: 312px;
+    margin-top: -0px;
+    
+}
+.yes button{
+    font-size: 20px;
+    background-color: #FFFFFF;
+    width: 259px;
+    height: 75px;
+    border-radius: 10px;
+    margin: 22px 27px 0px 27px;
+}
+
+.yes a{
+    text-decoration: none;
+    
+}
+
+.room a{
+    color: #FFFFFF;
+}
+.yes .room{
+    background-color: #DD0000;
+}
+
+.moon{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+.lol{
+    display: flex;
+    justify-content: space-around;
+}
+.joss{
+    border: 1px solid rgb(187, 174, 174);
+    border-radius: 11px;
+    width: 311px;
+    height: 361px;
+}
+
+.pubgi{
+    margin-top: 10px;
+    
+}
+.boom{
+    display: grid;
+    grid-template-columns: 25% 75%;
+    margin-left: 50px;
+    margin-right: 40px;
+    margin-top: 40px;
+
+}
+.boom .moon{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+/* Footer */
+footer{
+    text-align: center;
+    border: 1px solid red;
+    width: 1600px;
+    height: 444px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+    background-color: black;
+}
+footer h1{
+    color: #FFFFFF;
+    font-family: 'Poppins';
+}
+hr{
+    width: 1320px;
+    height: 0px;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+}
+.foot a{
+    text-decoration: none;
+    color: rgb(181, 171, 171);
+}
+.foot-one{
+    margin-top: 30px;
+    font-size: 40px;
+    color: #FFFFFF;
+    
+}
+
+
+
+
